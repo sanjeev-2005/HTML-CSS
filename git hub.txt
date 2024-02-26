@@ -1,0 +1,20 @@
+
+sanje@LAPTOP-6NJ05D3V MINGW64 ~
+$ git config -- global user. name"sanjeev-2005"
+fatal: not in a git directory
+
+sanje@LAPTOP-6NJ05D3V MINGW64 ~
+$ git config --global user.name"sanjeev-2005"
+
+sanje@LAPTOP-6NJ05D3V MINGW64 ~
+$ git congig --global user.email"sanjeev.rm2022ece@sece.ac.in"
+git: 'congig' is not a git command. See 'git --help'.
+
+The most similar command is
+        config
+
+sanje@LAPTOP-6NJ05D3V MINGW64 ~
+$ git config --global user.email"sanjeev.rm2022ece@sece.ac.in"
+
+sanje@LAPTOP-6NJ05D3V MINGW64 ~
+$
